@@ -1,2 +1,2 @@
 def hello_world():
-    return "Hello, Git World!"
+    return "Hello, from Richard!"
